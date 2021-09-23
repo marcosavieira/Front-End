@@ -1,0 +1,17 @@
+p, h1, h2, h3{
+    text-align: center;
+}
+.skills_graf {
+    width: 50%;
+    background-color: rgb(240, 255, 241);
+    height: 100px;
+}
+
+footer, a{
+    
+    text-align: left;
+}
+
+div {
+    text-align: center;
+  }
