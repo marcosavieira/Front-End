@@ -1,17 +1,26 @@
+
+body{
+    background-color: silver;
+}  
 p, h1, h2, h3{
     text-align: center;
-}
-.skills_graf {
-    width: 50%;
-    background-color: rgb(240, 255, 241);
-    height: 100px;
+    background-color: white;
 }
 
-footer, a{
-    
-    text-align: left;
+#ini{
+    background-color: white;
+}
+
+#contato {
+    background-color: skyblue;
 }
 
 div {
     text-align: center;
   }
+
+footer, a{
+    
+    text-align: left;
+    background-color: royalblue;
+}
